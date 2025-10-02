@@ -48,4 +48,4 @@ public class ModuloController {
             vista.mostrarMensaje("Error al eliminar.");
         }
     }
-}
+} 
