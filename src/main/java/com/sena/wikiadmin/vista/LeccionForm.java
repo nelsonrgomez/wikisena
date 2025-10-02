@@ -11,7 +11,7 @@ public class LeccionForm extends JFrame {
     public JTextField txtTitulo;
     public JComboBox<Modulo> cbModulo;
     public JButton btnNuevo;
-    public JButton btnGuardar;
+    public JButton btnGuardar; 
     public JButton btnActualizar;
     public JButton btnEliminar;
     public JButton btnRefrescar;

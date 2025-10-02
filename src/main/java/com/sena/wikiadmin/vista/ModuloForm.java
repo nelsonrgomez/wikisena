@@ -19,7 +19,7 @@ public class ModuloForm extends JFrame {
     private final JButton btnGuardar;
     private final JButton btnListar;
     private final JButton btnActualizar;
-    private final JButton btnEliminar;
+    private final JButton btnEliminar; 
     private final JTextArea txtResultado;
 
     private ModuloController controller;
