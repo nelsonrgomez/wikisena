@@ -13,7 +13,7 @@ import java.util.List;
 public class LeccionController {
 
     private final LeccionForm view;
-    private final LeccionDAO leccionDAO;
+    private final LeccionDAO leccionDAO; 
     private final ModuloDAO moduloDAO;
 
     public LeccionController(LeccionForm view) {
